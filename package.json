@@ -1,0 +1,32 @@
+{
+  "name": "ebabel-bounding-box",
+  "version": "1.0.0",
+  "description": "Calculate a 3D bounding box for a THREE.js mesh.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "jsdoc": "node ./node_modules/.bin/jsdoc -d docs ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebabel-eu/ebabel-bounding-box.git"
+  },
+  "keywords": [
+    "games",
+    "module",
+    "javascript"
+  ],
+  "author": "Thomas Amar <hello@ebabel.eu> (https://ebabel.eu/)",
+  "contributors": [
+    "Dave Pitts <dgapitts@gmail.com>"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ebabel-eu/ebabel-bounding-box/issues"
+  },
+  "homepage": "https://github.com/ebabel-eu/ebabel-bounding-box#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "jsdoc": "^3.5.5"
+  }
+}
