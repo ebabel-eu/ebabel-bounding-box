@@ -1,5 +1,5 @@
 # ebabel-bounding-box
-[![Build Status](https://travis-ci.org/ebabel-eu/ebabel-bounding-box.svg?branch=master)](https://travis-ci.org/ebabel-eu/ebabel-bounding-box)
+[![Build Status](https://travis-ci.org/ebabel-games/ebabel-bounding-box.svg?branch=master)](https://travis-ci.org/ebabel-games/ebabel-bounding-box)
 
 Calculate a 3D bounding box for a THREE.js mesh.
 
