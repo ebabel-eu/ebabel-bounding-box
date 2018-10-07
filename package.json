@@ -1,6 +1,6 @@
 {
   "name": "ebabel-bounding-box",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Calculate a 3D bounding box for a THREE.js mesh.",
   "main": "index.js",
   "engines": {
