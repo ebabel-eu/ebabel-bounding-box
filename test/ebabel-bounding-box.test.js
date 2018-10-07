@@ -1,6 +1,6 @@
 const { mockTHREE } = require('ebabel-mocks');
 
-const boundingBox = require('../index');
+const boundingBox = require('../src/ebabel-bounding-box');
 
 let THREE;
 let mesh;
